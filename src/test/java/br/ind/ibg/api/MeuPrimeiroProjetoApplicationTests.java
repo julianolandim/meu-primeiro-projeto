@@ -8,7 +8,7 @@ class MeuPrimeiroProjetoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//
+		// versao 2.0
 	}
 
 }
