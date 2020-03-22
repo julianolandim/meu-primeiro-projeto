@@ -8,6 +8,7 @@ class MeuPrimeiroProjetoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//
 	}
 
 }
