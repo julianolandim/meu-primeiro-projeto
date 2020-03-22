@@ -8,6 +8,7 @@ public class MeuPrimeiroProjetoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjetoApplication.class, args);
+		//versao 2.0 teste teste 
 	}
 
 }
